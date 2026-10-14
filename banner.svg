@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Deepan Chakravarthy, Data Automation Architect</title>
+  <desc id="desc">Graphite and cyan banner with a subtle technical grid, layered contours, and a data-to-insight pipeline.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#080f17"/>
+      <stop offset="1" stop-color="#17232e"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#22d3ee" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#a8c9d8" stroke-opacity=".06"/>
+      <circle cx="0" cy="0" r="1" fill="#a8c9d8" opacity=".15"/>
+    </pattern>
+    <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="2" r=".5" fill="#fff" opacity=".04"/>
+      <circle cx="5" cy="6" r=".5" fill="#fff" opacity=".03"/>
+    </pattern>
+    <linearGradient id="accent">
+      <stop stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="440" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="440" rx="24" fill="url(#grid)"/>
+  <rect width="1280" height="440" rx="24" fill="url(#grain)"/>
+  <ellipse cx="1060" cy="160" rx="410" ry="340" fill="url(#glow)"/>
+  <g fill="none" stroke="#67e8f9" stroke-opacity=".1">
+    <path d="M800 0C1080 80 820 360 1280 350"/>
+    <path d="M840 0C1120 80 860 360 1280 310"/>
+    <path d="M880 0C1160 80 900 360 1280 270"/>
+    <path d="M920 0C1200 80 940 360 1280 230"/>
+    <path d="M960 0C1240 80 980 360 1280 190"/>
+  </g>
+  <rect x="64" y="58" width="5" height="26" rx="2" fill="#67e8f9"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="84" y="77" font-size="14" font-weight="600" letter-spacing="3" fill="#67e8f9">DATA / AUTOMATION / INTELLIGENCE</text>
+    <text x="64" y="157" font-size="53" font-weight="700" letter-spacing="-1.5" fill="#f1f5f9">Deepan Chakravarthy</text>
+    <text x="66" y="203" font-size="28" fill="#cbd5e1">Data Automation Architect</text>
+    <text x="66" y="250" font-size="19" fill="#94a3b8">Transforming data into intelligent business solutions.</text>
+    <rect x="66" y="280" width="660" height="1" fill="url(#accent)"/>
+    <text x="66" y="321" font-size="14" font-weight="600" letter-spacing="1.5" fill="#cbd5e1">POWER PLATFORM</text>
+    <circle cx="254" cy="316" r="2" fill="#22d3ee"/>
+    <text x="275" y="321" font-size="14" font-weight="600" letter-spacing="1.5" fill="#cbd5e1">SQL &amp; REPORTING</text>
+    <circle cx="455" cy="316" r="2" fill="#22d3ee"/>
+    <text x="477" y="321" font-size="14" font-weight="600" letter-spacing="1.5" fill="#cbd5e1">PYTHON &amp; VBA</text>
+    <text x="66" y="389" font-size="12" letter-spacing="2" fill="#64748b">GOOD DATA. LESS MANUAL WORK. BETTER DECISIONS.</text>
+  </g>
+  <g fill="#101f2b" stroke="#67e8f9" stroke-opacity=".5">
+    <rect x="910" y="133" width="106" height="72" rx="14"/>
+    <rect x="1080" y="133" width="106" height="72" rx="14"/>
+    <rect x="995" y="267" width="106" height="72" rx="14"/>
+    <path d="M1016 169H1080M1133 205V236H1048V267M963 205V236H1048" fill="none" stroke-dasharray="4 5"/>
+  </g>
+  <g fill="none" stroke="#67e8f9" stroke-width="2">
+    <ellipse cx="963" cy="155" rx="15" ry="5"/>
+    <path d="M948 155V176C948 183 978 183 978 176V155M948 165C948 172 978 172 978 165"/>
+    <path d="M1118 179L1128 158L1137 171L1148 149"/>
+    <path d="M1033 289L1040 296L1033 303M1047 303H1063"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1" text-anchor="middle" fill="#cbd5e1">
+    <text x="963" y="195">DATA</text>
+    <text x="1133" y="195">INSIGHT</text>
+    <text x="1048" y="326">AUTOMATE</text>
+  </g>
+  <rect x="1" y="1" width="1278" height="438" rx="23" fill="none" stroke="#94a3b8" stroke-opacity=".12"/>
+</svg>
