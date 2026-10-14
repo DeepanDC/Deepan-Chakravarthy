@@ -1,4 +1,4 @@
-![Animated banner: Deepan Chakravarthy, Data Automation Architect. From raw data to real impact.](assets/banner-animated.gif)
+![Animated banner: Deepan Chakravarthy, Data Automation Architect. From raw data to real impact.](banner-animated.gif)
 
 ### Less repetition. More intelligence. Real impact.
 
@@ -11,13 +11,13 @@ I build business intelligence, automation, and reporting solutions that make inf
 <details>
 <summary>Prefer a still banner? Open the animation-free version.</summary>
 
-![Static banner: Deepan Chakravarthy, Data Automation Architect](assets/banner.svg)
+![Static banner: Deepan Chakravarthy, Data Automation Architect](banner.svg)
 
 </details>
 
 ---
 
-![Expertise: Business intelligence, workflow automation, and data engineering](assets/expertise.svg)
+![Expertise: Business intelligence, workflow automation, and data engineering](expertise.svg)
 
 ## From raw data to real impact
 
