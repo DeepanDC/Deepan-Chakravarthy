@@ -6,7 +6,7 @@
 
 I build business intelligence, automation, and reporting solutions that make information easier to trust, work with, and act on. My focus is scalable dashboards, automated reporting pipelines, and intelligent workflows that reduce manual effort and improve operational visibility.
 
-**[LET'S CONNECT ↗](https://www.linkedin.com/in/deepan-chakravarthy-7129771a0/)** · [Explore my GitHub](https://github.com/DMurugan1_rockfoc)
+**[LET'S CONNECT ↗](https://www.linkedin.com/in/deepan-chakravarthy-7129771a0/)** · [Explore my GitHub](https://github.com/DeepanDC)
 
 <details>
 <summary>Prefer a still banner? Open the animation-free version.</summary>
